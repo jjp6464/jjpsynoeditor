@@ -1,0 +1,31 @@
+{
+    "name": "Exemple de synoptique",
+    "items": [
+        {
+            "typeName": "imageComponent",
+            "position": {
+                "x": 10,
+                "y": 100,
+                "width": 32,
+                "height": 32,
+                "scale": 1,
+                "angle": 0
+            },
+            "dataSource": {
+                "imageUrl": "/app/demo/data/image.jpeg"
+            }
+        },
+        {
+            "typeName": "pumpSymbol",
+            "position": {
+                "x": 10,
+                "y": 100,
+                "width": 32,
+                "height": 32
+            },
+            "dataSource": {
+                "entityId": "392383298432498"
+            }
+        }
+    ]
+}
